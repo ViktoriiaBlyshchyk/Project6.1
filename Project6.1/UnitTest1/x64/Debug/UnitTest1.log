@@ -1,0 +1,20 @@
+﻿  UnitTest1.cpp
+D:\Study\ООП\Project6.1\Project6.1\Array.h(16,7): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Study\ООП\Project6.1\Project6.1\Array.h(17,7): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Study\ООП\Project6.1\Project6.1\Array.h(18,7): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Study\ООП\Project6.1\Project6.1\Array.h(19,7): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Study\ООП\Project6.1\Project6.1\Array.h(34,45): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Study\ООП\Project6.1\Project6.1\Array.h(37,48): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Study\ООП\Project6.1\Project6.1\Array.h(38,60): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Study\ООП\Project6.1\Project6.1\Array.cpp(8,64): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Study\ООП\Project6.1\Project6.1\Array.cpp(17,88): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Study\ООП\Project6.1\Project6.1\Array.cpp(32,34): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Study\ООП\Project6.1\Project6.1\Array.cpp(46,45): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Study\ООП\Project6.1\Project6.1\Array.cpp(73,60): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Study\ООП\Project6.1\Project6.1\Array.cpp(82,19): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Study\ООП\Project6.1\Project6.1\Array.cpp(90,51): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Study\ООП\Project6.1\Project6.1\Array.cpp(137,20): warning C4244: аргумент: преобразование "const double" в "const size_t", возможна потеря данных
+D:\Study\ООП\Project6.1\Project6.1\Array.cpp(142,39): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Study\ООП\Project6.1\Project6.1\Array.cpp(167,23): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+D:\Study\ООП\Project6.1\Project6.1\Array.cpp(193): warning C4715: Array::Number: значение возвращается не при всех путях выполнения
+  UnitTest1.vcxproj -> D:\Study\ООП\Project6.1\x64\Debug\UnitTest1.dll
